@@ -14,7 +14,7 @@ import ExploreMoreSection from '../components/core/homePage/ExploreMoreSection';
 
 
 function Home() {
-    console.log("TEST PRINT",process.env.REACT_APP_RAZORPAY_KEY_ID)
+    
   return (
     <div>
          {/*section 1*/}
